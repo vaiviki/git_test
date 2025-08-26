@@ -1,0 +1,101 @@
+Order ID,Customer Name,Product,Category,Quantity,Unit Price,Order Date,Region,Sales
+ORD0001,Heather Edwards,Monitor,Electronics,1,526.31,2025-04-08,West,526.31
+ORD0002,Kevin Roy,Monitor,Electronics,6,1108.51,2024-12-22,West,6651.06
+ORD0003,Angela Sparks,Notebook,Stationery,1,249.46,2025-01-13,East,249.46
+ORD0004,Charles Avery,Desk Chair,Furniture,4,149.45,2025-08-15,North,597.8
+ORD0005,Jennifer Jimenez,Coffee Table,Furniture,3,559.12,2024-08-28,West,1677.36
+ORD0006,Kelly Watson,Notebook,Stationery,10,1179.5,2025-06-12,East,11795.0
+ORD0007,Patrick Porter,Backpack,Accessories,7,1043.13,2025-04-18,South,7301.91
+ORD0008,Megan Pollard,Backpack,Accessories,3,212.53,2025-03-19,North,637.59
+ORD0009,Laura Costa,Notebook,Stationery,7,1055.68,2024-11-16,West,7389.76
+ORD0010,Kayla Fritz,Laptop,Electronics,3,1379.55,2025-07-07,East,4138.65
+ORD0011,Heidi Greene,Notebook,Stationery,7,1113.44,2024-10-28,North,7794.08
+ORD0012,Joseph Weeks,Notebook,Stationery,10,1279.69,2025-06-05,South,12796.9
+ORD0013,Stacy Kennedy,Pen,Stationery,1,866.0,2024-10-06,East,866.0
+ORD0014,Steven Mendez,Monitor,Electronics,5,1155.83,2024-09-27,South,5779.15
+ORD0015,Erin Marks,Laptop,Electronics,1,1113.19,2025-03-15,West,1113.19
+ORD0016,Darryl Harrell,Desk Chair,Furniture,2,165.98,2025-03-17,South,331.96
+ORD0017,Adam Sanchez,Coffee Table,Furniture,2,313.87,2024-11-10,North,627.74
+ORD0018,Cassandra Roberts,Laptop,Electronics,5,711.86,2025-07-14,East,3559.3
+ORD0019,Larry Smith,Monitor,Electronics,10,985.54,2025-01-16,North,9855.4
+ORD0020,Jill Green,Laptop,Electronics,3,1396.09,2024-08-30,North,4188.27
+ORD0021,Samantha Sanchez,Notebook,Stationery,4,417.55,2024-12-22,South,1670.2
+ORD0022,Haley Williams,Monitor,Electronics,3,399.01,2024-09-08,South,1197.03
+ORD0023,Anna Davidson,Backpack,Accessories,6,1027.18,2024-11-25,East,6163.08
+ORD0024,Brian Carney,Laptop,Electronics,4,1187.21,2025-07-08,East,4748.84
+ORD0025,Bryan Aguirre,Smartphone,Electronics,9,844.86,2025-06-05,East,7603.74
+ORD0026,Brett Wyatt,Laptop,Electronics,9,676.12,2024-11-23,South,6085.08
+ORD0027,Tyler Nguyen,Desk Chair,Furniture,2,78.59,2024-12-20,South,157.18
+ORD0028,Jason Barrett,Coffee Table,Furniture,4,1124.06,2024-09-27,East,4496.24
+ORD0029,David Duncan,Smartphone,Electronics,10,193.11,2025-03-22,South,1931.1
+ORD0030,David Hamilton,Monitor,Electronics,7,998.9,2025-04-22,North,6992.3
+ORD0031,Billy Leonard,Monitor,Electronics,8,712.74,2024-10-09,East,5701.92
+ORD0032,Cindy Richardson,Desk Chair,Furniture,9,75.11,2025-06-28,South,675.99
+ORD0033,Kelly Jackson,Laptop,Electronics,4,569.26,2024-12-11,North,2277.04
+ORD0034,Joseph Roberts,Pen,Stationery,8,1032.78,2025-06-23,South,8262.24
+ORD0035,Kevin Contreras,Backpack,Accessories,1,804.97,2025-06-24,West,804.97
+ORD0036,Sydney Moore,Desk Chair,Furniture,4,660.78,2025-04-22,South,2643.12
+ORD0037,Andrew Kennedy,Coffee Table,Furniture,7,963.94,2025-08-04,East,6747.58
+ORD0038,Guy Huff,Backpack,Accessories,1,827.01,2024-11-26,East,827.01
+ORD0039,Alan Williamson,Pen,Stationery,4,762.29,2025-06-04,West,3049.16
+ORD0040,Barbara Johnson,Monitor,Electronics,2,1054.68,2025-02-10,West,2109.36
+ORD0041,Seth Long,Pen,Stationery,7,150.1,2025-08-03,East,1050.7
+ORD0042,Julia Gonzalez,Desk Chair,Furniture,2,265.7,2025-03-18,South,531.4
+ORD0043,Sarah Chan,Coffee Table,Furniture,2,1075.34,2024-09-21,South,2150.68
+ORD0044,Garrett Hernandez,Coffee Table,Furniture,4,1012.74,2025-03-07,East,4050.96
+ORD0045,Kelly Moore,Notebook,Stationery,4,1421.06,2025-03-04,West,5684.24
+ORD0046,Amanda Arellano,Notebook,Stationery,2,130.64,2024-09-12,North,261.28
+ORD0047,David Johnson,Pen,Stationery,9,347.56,2025-07-21,East,3128.04
+ORD0048,Maria Hicks,Pen,Stationery,5,971.34,2024-12-06,North,4856.7
+ORD0049,Jennifer Bond,Desk Chair,Furniture,8,490.07,2024-11-04,East,3920.56
+ORD0050,Mary Smith,Coffee Table,Furniture,4,479.6,2025-06-24,North,1918.4
+ORD0051,Steven Garrett,Coffee Table,Furniture,5,851.4,2025-05-04,South,4257.0
+ORD0052,John Miller,Backpack,Accessories,7,800.69,2025-03-15,North,5604.83
+ORD0053,Paula Miller,Smartphone,Electronics,4,468.8,2025-02-01,South,1875.2
+ORD0054,Nicholas Mckee,Monitor,Electronics,8,1009.99,2025-02-02,East,8079.92
+ORD0055,Cynthia Garcia,Pen,Stationery,6,648.06,2025-05-23,North,3888.36
+ORD0056,Carla Jarvis,Pen,Stationery,7,485.39,2024-09-03,East,3397.73
+ORD0057,Jon Rodgers,Monitor,Electronics,1,570.33,2025-08-06,North,570.33
+ORD0058,Julia George,Notebook,Stationery,2,1219.77,2024-08-30,South,2439.54
+ORD0059,Jennifer Stanley,Notebook,Stationery,10,598.43,2025-04-11,West,5984.3
+ORD0060,Jessica Carson,Monitor,Electronics,8,962.4,2025-08-13,West,7699.2
+ORD0061,Mary Brown,Monitor,Electronics,1,1120.59,2025-02-04,North,1120.59
+ORD0062,Peter Nixon DVM,Notebook,Stationery,4,311.09,2025-02-19,South,1244.36
+ORD0063,Justin Rodgers,Desk Chair,Furniture,7,1354.17,2025-02-04,South,9479.19
+ORD0064,Charles Richards,Desk Chair,Furniture,6,417.32,2024-09-06,North,2503.92
+ORD0065,Pamela Hancock,Notebook,Stationery,10,396.38,2025-02-13,South,3963.8
+ORD0066,Timothy Gonzales,Laptop,Electronics,7,1412.58,2025-02-06,East,9888.06
+ORD0067,Sonya Rodriguez,Monitor,Electronics,5,442.06,2025-07-27,South,2210.3
+ORD0068,Shannon George,Monitor,Electronics,10,1419.1,2025-01-07,South,14191.0
+ORD0069,Timothy Tanner Jr.,Pen,Stationery,1,1120.21,2025-05-10,South,1120.21
+ORD0070,Connie Watts,Notebook,Stationery,6,940.39,2025-03-13,South,5642.34
+ORD0071,Mark Becker,Laptop,Electronics,5,733.26,2025-07-16,West,3666.3
+ORD0072,Joshua Clark,Smartphone,Electronics,4,771.51,2025-06-30,West,3086.04
+ORD0073,Danielle Ryan MD,Desk Chair,Furniture,1,13.82,2025-02-26,South,13.82
+ORD0074,Martha Ayala,Notebook,Stationery,9,671.83,2024-09-12,South,6046.47
+ORD0075,Jeffrey Myers,Backpack,Accessories,6,343.28,2025-08-02,South,2059.68
+ORD0076,George Gonzales,Desk Chair,Furniture,8,653.05,2024-10-04,South,5224.4
+ORD0077,Sarah Bell,Desk Chair,Furniture,4,288.5,2025-04-13,West,1154.0
+ORD0078,Leah Malone,Desk Chair,Furniture,6,747.36,2025-08-18,East,4484.16
+ORD0079,Travis Riddle,Monitor,Electronics,2,953.35,2025-08-24,West,1906.7
+ORD0080,Cynthia Fowler,Laptop,Electronics,4,1173.99,2025-07-19,East,4695.96
+ORD0081,Susan Martinez,Notebook,Stationery,9,1286.19,2024-11-08,South,11575.71
+ORD0082,Christopher Stewart,Notebook,Stationery,3,1211.98,2025-03-23,East,3635.94
+ORD0083,James Brown,Laptop,Electronics,9,1354.25,2025-06-24,North,12188.25
+ORD0084,Sara May,Monitor,Electronics,3,690.46,2025-04-09,South,2071.38
+ORD0085,Melanie Jackson,Notebook,Stationery,4,599.23,2025-03-03,North,2396.92
+ORD0086,Keith Thomas,Laptop,Electronics,9,1459.77,2025-06-09,South,13137.93
+ORD0087,Kurt Adams,Monitor,Electronics,6,815.25,2025-05-29,South,4891.5
+ORD0088,Amanda Hatfield,Pen,Stationery,6,320.97,2025-07-19,West,1925.82
+ORD0089,Charles Warren,Monitor,Electronics,3,1118.38,2025-01-27,East,3355.14
+ORD0090,Tiffany Hill,Smartphone,Electronics,7,1132.39,2024-09-18,South,7926.73
+ORD0091,Jeremiah Bell,Monitor,Electronics,5,560.43,2025-08-23,West,2802.15
+ORD0092,Rhonda Collins,Backpack,Accessories,3,635.23,2024-12-21,North,1905.69
+ORD0093,Shane Guerrero,Coffee Table,Furniture,3,772.2,2025-03-30,West,2316.6
+ORD0094,Maria Davidson,Monitor,Electronics,3,917.29,2025-02-19,East,2751.87
+ORD0095,Ashley Duran,Coffee Table,Furniture,4,1168.85,2024-10-20,North,4675.4
+ORD0096,Joel Johnson,Coffee Table,Furniture,2,1182.58,2025-07-30,West,2365.16
+ORD0097,Stephanie Roman,Backpack,Accessories,8,1363.64,2024-10-03,West,10909.12
+ORD0098,Kimberly Lutz,Laptop,Electronics,6,871.63,2025-07-15,West,5229.78
+ORD0099,Anthony Randall,Notebook,Stationery,6,1298.53,2024-11-30,North,7791.18
+ORD0100,Henry Patterson,Coffee Table,Furniture,5,1403.51,2025-01-22,North,7017.55
